@@ -42,7 +42,6 @@ public class Reach_users
 	private Address address;
 
 	@OneToMany(mappedBy = "user", fetch = FetchType.LAZY)
-	@JoinColumn(name = "Parcel_id")
 	private List<Parcel> parcels;
 
 	@OneToOne

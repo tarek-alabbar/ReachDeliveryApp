@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.fdmgroup</groupId>
-  <artifactId>SimpleSpringMVCExample</artifactId>
+  <artifactId>ReachDeliveryApp</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>SimpleSpringMVCExample Maven Webapp</name>
+  <name>Reach Delivery App</name>
 
   	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
