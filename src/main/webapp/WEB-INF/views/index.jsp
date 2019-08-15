@@ -8,7 +8,9 @@
 </head>
 <body>
 
-	<h1>Welcome</h1>
+	<h1>Welcome ${userObj.name}</h1>
+	<h2>Your username is ${userObj.username}</h2>
+	<%-- <h2>Your user type is: ${userType.description}</h2> --%>
 	
 </body>
 </html>
