@@ -7,17 +7,8 @@
 <title>Welcome Page</title>
 </head>
 <body>
-	<h1>Welcome ${user.name}</h1>
+
+	<h1>Welcome</h1>
 	
-	 
-
-	<%-- <div>
-		<p>To log in, please click the button below:</p>
-		<form action="login" method="POST">
-			<input type="submit" value="Login Page">
-		</form>
-		
-	</div> --%>
-
 </body>
 </html>
